@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "proxy": "https://www.mrsoft.by",
-  "homepage": "https://egorchaban.github.io/TestForMR",
+  "homepage": "https://egorchaban.github.io/MR",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
     "@testing-library/react": "^11.1.0",
