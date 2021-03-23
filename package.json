@@ -1,8 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "private": true,
-  "proxy": "https://www.mrsoft.by",
+  "private": true
   "homepage": "https://egorchaban.github.io/TestForMR",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
@@ -49,5 +48,6 @@
   },
   "devDependencies": {
     "gh-pages": "^3.1.0"
-  }
+  },
+  "proxy": "https://www.mrsoft.by"
 }
