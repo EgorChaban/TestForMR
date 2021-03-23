@@ -1,13 +1,52 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="" />
+    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/checked.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/state/Reducer.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="TypeScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1q3VLwvcmyyPN2rjbYNmVYVwGGw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,10 +54,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../it-incubator2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\React\TestForMR\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\React\TestForMR\src" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
@@ -46,33 +90,69 @@
       <option name="presentableId" value="Default" />
       <updated>1616308207579</updated>
       <workItem from="1616308208789" duration="108000" />
-      <workItem from="1616309454761" duration="7794000" />
+      <workItem from="1616309454761" duration="8635000" />
+      <workItem from="1616432838278" duration="4042000" />
+      <workItem from="1616438720539" duration="1938000" />
+      <workItem from="1616484883945" duration="11208000" />
+      <workItem from="1616496207903" duration="11685000" />
+      <workItem from="1616511413715" duration="4950000" />
+      <workItem from="1616529342565" duration="1869000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1616310107549">
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1616527465318">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616310107549" />
-    <state width="1899" height="119" key="GridCell.Tab.0.bottom" timestamp="1616334598567">
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336142806" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616527465318" />
+    <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616438051651" />
+    <state x="2757" y="418" key="Github.ShareDialog" timestamp="1616531211845">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616334598567" />
-    <state width="1899" height="119" key="GridCell.Tab.0.center" timestamp="1616334598567">
+    <state x="2757" y="418" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531211845" />
+    <state x="2738" y="225" key="Github.UntrackedFilesDialog" timestamp="1616335774179">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616334598567" />
-    <state width="1899" height="119" key="GridCell.Tab.0.left" timestamp="1616334598567">
+    <state x="2738" y="225" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616335774179" />
+    <state width="1899" height="83" key="GridCell.Tab.0.bottom" timestamp="1616530696757">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616334598567" />
-    <state width="1899" height="119" key="GridCell.Tab.0.right" timestamp="1616334598567">
+    <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144499" />
+    <state width="1899" height="83" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
+    <state width="1899" height="83" key="GridCell.Tab.0.center" timestamp="1616530696757">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1899" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616334598567" />
+    <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
+    <state width="1899" height="83" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
+    <state width="1899" height="83" key="GridCell.Tab.0.left" timestamp="1616530696757">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
+    <state width="1899" height="83" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
+    <state width="1899" height="83" key="GridCell.Tab.0.right" timestamp="1616530696757">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
+    <state width="1899" height="83" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
   </component>
 </project>

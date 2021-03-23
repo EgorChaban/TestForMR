@@ -1,3 +1,121 @@
+:root{
+    --bgColor: #dbc9b9;
+    --bgColorHover: #ad9d8e;
+}
+
+
 .App {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.wrapper {
+    width: 600px;
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    padding-top: 20px;
+}
+
+.input {
+    height: 40px;
+    width: 200px;
+    border: none;
+    background-color: var(--bgColor);
+    border-radius: 15px;
+    padding-left: 10px;
+    font-size: 18px;
+    color: white;
+    box-shadow: inset 1px 2px 2px white;
+    transition: ease-in 0.3s;
+    margin-bottom: 20px;
+}
+.input:focus{
+    outline: none;
+    box-shadow: none;
+    background-color: var(--bgColorHover);
+}
+
+.btnWrap {
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+}
+
+.checkbox {
+    appearance: none;
+    width: 20px;
+    height: 20px;
+    border-bottom: 3px solid #4a8efa;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: 90% 90%;
+    vertical-align: middle;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.checkbox:checked{
+    appearance: none;
+    background-image: url("checked.png");
+}
+.checkbox:focus{
+    outline: none;
+}
+
+@keyframes blick {
+    0% {
+        left: -130%;
+    }
+    100% {
+        left: 130%;
+    }
+}
+
+
+.button {
+    outline: none;
+    border: none;
+    transition: 0.5s ease all;
+    font-size: 16px;
+    padding: 5px 16px;
+    background-color: var(--bgColor);
+    color: white;
+    position: relative;
+    overflow: hidden;
+    border-radius: 5px;
+}
+
+.button::after {
+    display: block;
+    content: '';
+    left: -130%;
+    top: 0px;
+    height: 100%;
+    width: 20%;
+    transform: skew(45deg);
+    z-index: 1;
+    position: absolute;
+    background-color: #ffffff;
+    opacity: 0.7;
 
 }
+
+.button:hover::after {
+    animation: blick 0.35s ease;
+}
+
+.button:hover {
+    background-color: var(--bgColorHover);
+    cursor: pointer;
+}
+
+.button:focus {
+    outline: none;
+}
+
+.button:focus::after {
+    display: none;
+}
+
