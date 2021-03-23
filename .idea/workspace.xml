@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="MR test with react">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/state/Reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/Reducer.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="D:\React\TestForMR\node_modules\typescript\lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -110,7 +111,7 @@
       <workItem from="1616484883945" duration="11208000" />
       <workItem from="1616496207903" duration="11685000" />
       <workItem from="1616511413715" duration="4950000" />
-      <workItem from="1616529342565" duration="3387000" />
+      <workItem from="1616529342565" duration="8265000" />
     </task>
     <task id="LOCAL-00001" summary="MR test with react">
       <created>1616531260142</created>
@@ -140,11 +141,63 @@
       <option name="project" value="LOCAL" />
       <updated>1616532053438</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MR test with react">
+      <created>1616533004876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616533004876</updated>
+    </task>
+    <task id="LOCAL-00006" summary="фывфыв">
+      <created>1616534452358</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616534452358</updated>
+    </task>
+    <task id="LOCAL-00007" summary="jsn">
+      <created>1616535282260</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616535282260</updated>
+    </task>
+    <task id="LOCAL-00008" summary="jsn">
+      <created>1616535476449</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616535476449</updated>
+    </task>
+    <task id="LOCAL-00009" summary="jsn">
+      <created>1616535626521</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616535626521</updated>
+    </task>
+    <task id="LOCAL-00010" summary="jsn">
+      <created>1616536310337</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616536310337</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -160,50 +213,64 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MR test with react" />
-    <option name="LAST_COMMIT_MESSAGE" value="MR test with react" />
+    <MESSAGE value="фывфыв" />
+    <MESSAGE value="jsn" />
+    <option name="LAST_COMMIT_MESSAGE" value="jsn" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1616527465318">
+    <state x="2625" y="344" key="#Notifications" timestamp="1616533612629">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2625" y="344" key="#Notifications/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616533612629" />
+    <state x="2640" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616536153116">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2640" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536153116" />
+    <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1616533969313">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336142806" />
-    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616527465318" />
+    <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616533969313" />
     <state x="592" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1616438051651" />
-    <state x="2757" y="418" key="Github.ShareDialog" timestamp="1616532418199">
+    <state x="2757" y="418" key="Github.ShareDialog" timestamp="1616534029843">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2757" y="418" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532418199" />
+    <state x="2757" y="418" key="Github.ShareDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616534029843" />
     <state x="2738" y="225" key="Github.UntrackedFilesDialog" timestamp="1616335774179">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2738" y="225" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616335774179" />
-    <state width="1899" height="83" key="GridCell.Tab.0.bottom" timestamp="1616532285540">
+    <state width="1899" height="172" key="GridCell.Tab.0.bottom" timestamp="1616536318994">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144499" />
-    <state width="1899" height="83" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532285540" />
+    <state width="1899" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318994" />
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.center" timestamp="1616532285540">
+    <state width="1899" height="172" key="GridCell.Tab.0.center" timestamp="1616536318993">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532285540" />
+    <state width="1899" height="172" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318993" />
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.left" timestamp="1616532285539">
+    <state width="1899" height="172" key="GridCell.Tab.0.left" timestamp="1616536318993">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532285539" />
+    <state width="1899" height="172" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318993" />
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.right" timestamp="1616532285540">
+    <state width="1899" height="172" key="GridCell.Tab.0.right" timestamp="1616536318994">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532285540" />
+    <state width="1899" height="172" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318994" />
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616532752105">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616536313094">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616532752105" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536313094" />
+    <state x="2660" y="401" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616534330336">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2660" y="401" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616534330336" />
   </component>
 </project>
