@@ -19,16 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/state/Reducer.ts" afterDir="false" />
+    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="MR test with react">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +56,27 @@
       <recent name="D:\React\TestForMR\src" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="npm.start">
+    <configuration name="deploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="deploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <configuration name="predeploy" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="predeploy" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
       <package-json value="$PROJECT_DIR$/package.json" />
       <command value="run" />
@@ -77,6 +89,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.predeploy" />
         <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
@@ -96,8 +110,16 @@
       <workItem from="1616484883945" duration="11208000" />
       <workItem from="1616496207903" duration="11685000" />
       <workItem from="1616511413715" duration="4950000" />
-      <workItem from="1616529342565" duration="1869000" />
+      <workItem from="1616529342565" duration="2184000" />
     </task>
+    <task id="LOCAL-00001" summary="MR test with react">
+      <created>1616531260142</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616531260142</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,6 +137,10 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="MR test with react" />
+    <option name="LAST_COMMIT_MESSAGE" value="MR test with react" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="2660" y="275" key="FileChooserDialogImpl" timestamp="1616527465318">
       <screen x="1920" y="0" width="1920" height="1040" />
@@ -130,29 +156,33 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2738" y="225" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616335774179" />
-    <state width="1899" height="83" key="GridCell.Tab.0.bottom" timestamp="1616530696757">
+    <state width="1899" height="83" key="GridCell.Tab.0.bottom" timestamp="1616531436085">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144499" />
-    <state width="1899" height="83" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1899" height="83" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531436085" />
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.center" timestamp="1616530696757">
+    <state width="1899" height="83" key="GridCell.Tab.0.center" timestamp="1616531436085">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1899" height="83" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531436085" />
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.left" timestamp="1616530696757">
+    <state width="1899" height="83" key="GridCell.Tab.0.left" timestamp="1616531436085">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1899" height="83" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531436085" />
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="83" key="GridCell.Tab.0.right" timestamp="1616530696757">
+    <state width="1899" height="83" key="GridCell.Tab.0.right" timestamp="1616531436085">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="83" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616530696757" />
+    <state width="1899" height="83" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531436085" />
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616531274881">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616531274881" />
   </component>
 </project>
