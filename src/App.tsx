@@ -36,7 +36,7 @@ function App() {
         dispatch(changeCheckValueAC(e.currentTarget.checked))
     }
 
-
+///фывфывфывыфв
     return (
         <div className="App">
             <div className={'wrapper'}>
