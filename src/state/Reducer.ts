@@ -1,4 +1,5 @@
 import axios from "axios";
+import {appApi} from "../api/app-api";
 
 enum ACTION_TYPE {
     CHANGE_VALUE = 'CHANGE_VALUE',
@@ -86,9 +87,9 @@ export const getDataAC = (data: Array<string>) => {
 }
 
 export const fetchData = (dispatch: (g: getDataACType) => void) => {
-    axios.get('https://cors-anywhere.herokuapp.com/https://www.mrsoft.by/data.json')
+    appApi.getData()
         .then((res) => {
-            dispatch(getDataAC(res.data.data  ))
+            dispatch(getDataAC(res.data.data))
         })
 }
 
