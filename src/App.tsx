@@ -6,6 +6,8 @@ import {
     compareLengthAC, fetchData,
     Reducer
 } from "./state/Reducer";
+import {Link} from "react-router-dom";
+
 
 
 function App() {
@@ -36,9 +38,11 @@ function App() {
         dispatch(changeCheckValueAC(e.currentTarget.checked))
     }
 
-///фывфывфывыфв
+
     return (
         <div className="App">
+
+            если данные не отображаются, перейдите<a href="http://cors-anywhere.herokuapp.com/corsdemo"> сюда </a> и нажмите кнопку "Request temporary access"
             <div className={'wrapper'}>
                 <input
                     className={'input'}
