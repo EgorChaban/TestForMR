@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/TestForMR/static/css/main.7383d4f5.chunk.css",
+    "main.css": "/TestForMR/static/css/main.fa091757.chunk.css",
     "main.js": "/TestForMR/static/js/main.14bc41b5.chunk.js",
     "main.js.map": "/TestForMR/static/js/main.14bc41b5.chunk.js.map",
     "runtime-main.js": "/TestForMR/static/js/runtime-main.a2699bbe.js",
@@ -10,13 +10,13 @@
     "static/js/3.5a7919a2.chunk.js": "/TestForMR/static/js/3.5a7919a2.chunk.js",
     "static/js/3.5a7919a2.chunk.js.map": "/TestForMR/static/js/3.5a7919a2.chunk.js.map",
     "index.html": "/TestForMR/index.html",
-    "static/css/main.7383d4f5.chunk.css.map": "/TestForMR/static/css/main.7383d4f5.chunk.css.map",
+    "static/css/main.fa091757.chunk.css.map": "/TestForMR/static/css/main.fa091757.chunk.css.map",
     "static/js/2.d92bb92e.chunk.js.LICENSE.txt": "/TestForMR/static/js/2.d92bb92e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a2699bbe.js",
     "static/js/2.d92bb92e.chunk.js",
-    "static/css/main.7383d4f5.chunk.css",
+    "static/css/main.fa091757.chunk.css",
     "static/js/main.14bc41b5.chunk.js"
   ]
 }
