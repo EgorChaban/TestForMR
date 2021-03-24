@@ -86,7 +86,7 @@ export const getDataAC = (data: Array<string>) => {
 }
 
 export const fetchData = (dispatch: (g: getDataACType) => void) => {
-    axios.get('http://cors-anywhere.herokuapp.com/https://www.mrsoft.by/data.json', )
+    axios.get('https://cors-anywhere.herokuapp.com/https://www.mrsoft.by/data.json', )
         .then((res) => {
             dispatch(getDataAC(res.data.data  ))
         })
