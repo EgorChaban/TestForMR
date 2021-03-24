@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="MR test with react">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/state/Reducer.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/state/Reducer.ts" afterDir="false" />
-    </list>
+    <list default="true" id="bf70b0bd-6591-4a48-8c33-25509040a98d" name="Default Changelist" comment="MR test with react" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,8 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="npm.start" />
         <item itemvalue="npm.deploy" />
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.predeploy" />
       </list>
     </recent_temporary>
@@ -112,7 +109,7 @@
       <workItem from="1616496207903" duration="11685000" />
       <workItem from="1616511413715" duration="4950000" />
       <workItem from="1616529342565" duration="8726000" />
-      <workItem from="1616570265574" duration="1186000" />
+      <workItem from="1616570265574" duration="1538000" />
     </task>
     <task id="LOCAL-00001" summary="MR test with react">
       <created>1616531260142</created>
@@ -191,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616537839294</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="MR test with react">
+      <created>1616571902900</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616571902900</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

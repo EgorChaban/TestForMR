@@ -88,7 +88,7 @@ export const getDataAC = (data: Array<string>) => {
 export const fetchData = (dispatch: (g: getDataACType) => void) => {
 
 
-    axios.get('/data.json', )
+    axios.get('https://thingproxy.freeboard.io/fetch/https://www.mrsoft.by/data.json', )
         .then((res) => {
             dispatch(getDataAC(res.data.data  ))
         })
