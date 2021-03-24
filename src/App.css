@@ -48,13 +48,14 @@
     appearance: none;
     width: 20px;
     height: 20px;
-    border-bottom: 3px solid #4a8efa;
+    background-color: var(--bgColor);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: 90% 90%;
+    background-size: 60% 70%;
     vertical-align: middle;
-    margin-right: 10px;
+    border-radius: 20%;
     cursor: pointer;
+    transition:ease-in 0.3s; ;
 }
 .checkbox:checked{
     appearance: none;
@@ -62,6 +63,9 @@
 }
 .checkbox:focus{
     outline: none;
+}
+.checkbox:hover{
+    background-color: var(--bgColorHover);
 }
 
 @keyframes blick {
