@@ -90,9 +90,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="npm.start" />
         <item itemvalue="npm.deploy" />
         <item itemvalue="npm.predeploy" />
-        <item itemvalue="npm.start" />
       </list>
     </recent_temporary>
   </component>
@@ -111,7 +111,8 @@
       <workItem from="1616484883945" duration="11208000" />
       <workItem from="1616496207903" duration="11685000" />
       <workItem from="1616511413715" duration="4950000" />
-      <workItem from="1616529342565" duration="8265000" />
+      <workItem from="1616529342565" duration="8726000" />
+      <workItem from="1616570265574" duration="1186000" />
     </task>
     <task id="LOCAL-00001" summary="MR test with react">
       <created>1616531260142</created>
@@ -183,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616536310337</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="MR test with react">
+      <created>1616537839294</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616537839294</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,10 +220,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MR test with react" />
     <MESSAGE value="фывфыв" />
     <MESSAGE value="jsn" />
-    <option name="LAST_COMMIT_MESSAGE" value="jsn" />
+    <MESSAGE value="MR test with react" />
+    <option name="LAST_COMMIT_MESSAGE" value="MR test with react" />
   </component>
   <component name="WindowStateProjectService">
     <state x="2625" y="344" key="#Notifications" timestamp="1616533612629">
@@ -240,34 +248,34 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2738" y="225" key="Github.UntrackedFilesDialog/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616335774179" />
-    <state width="1899" height="172" key="GridCell.Tab.0.bottom" timestamp="1616536318994">
+    <state width="1899" height="172" key="GridCell.Tab.0.bottom" timestamp="1616537850456">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144499" />
-    <state width="1899" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318994" />
+    <state width="1899" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616537850456" />
     <state width="1515" height="119" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="172" key="GridCell.Tab.0.center" timestamp="1616536318993">
+    <state width="1899" height="172" key="GridCell.Tab.0.center" timestamp="1616537850456">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="172" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318993" />
+    <state width="1899" height="172" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616537850456" />
     <state width="1515" height="119" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="172" key="GridCell.Tab.0.left" timestamp="1616536318993">
+    <state width="1899" height="172" key="GridCell.Tab.0.left" timestamp="1616537850456">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="172" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318993" />
+    <state width="1899" height="172" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616537850456" />
     <state width="1515" height="119" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state width="1899" height="172" key="GridCell.Tab.0.right" timestamp="1616536318994">
+    <state width="1899" height="172" key="GridCell.Tab.0.right" timestamp="1616537850456">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1616336144498" />
-    <state width="1899" height="172" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536318994" />
+    <state width="1899" height="172" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616537850456" />
     <state width="1515" height="119" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1616443326883" />
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616536313094">
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1616537842687">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616536313094" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1616537842687" />
     <state x="2660" y="401" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1616534330336">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
